@@ -1,4 +1,4 @@
-# Basic portfolio
+# Basic portfolio website
 
 💻 Basic – Personal Portfolio Website
 
